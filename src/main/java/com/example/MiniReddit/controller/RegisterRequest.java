@@ -1,4 +1,4 @@
-package com.example.MiniReddit.controller.reg;
+package com.example.MiniReddit.controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
